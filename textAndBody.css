@@ -1,0 +1,27 @@
+.navItemText{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-left: 8px;
+}
+
+.bodyBackground{
+            background-image: url('https://hc-cdn.hel1.your-objectstorage.com/s/v3/61cc808dc58b6871c826bd40c2f4c4ea05d1cc14_mathias-reding-3p9qzn5uf5q-unsplash__1_.jpg'); /*Background open-source under Unsplash Licence, attribution to Mathais Reding, contact@matreding.com*/
+            background-repeat: repeat; 
+            background-size: auto;
+        }
+.mainBodyHeading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    padding: 8px;
+    text-align: center;
+}
+
+.mainBodyText{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:  #02d47c;
+    padding: 5px;
+    text-align: center;
+}
