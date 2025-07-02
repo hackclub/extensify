@@ -36,12 +36,14 @@
     padding-left: 20%;
     padding-right: 20%;
     text-align: center;
+    list-style: none;
 }
 
 .mainBodyListItem a {
     color: #1bffb3;
     text-decoration: none;
 }
+
 .mainBodyListItem a:hover {
     color: white;
     animation: bounce 0.3s ease-in-out infinite;
