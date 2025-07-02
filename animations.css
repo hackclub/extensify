@@ -1,3 +1,9 @@
+.bodyBackground{
+            background-image: url('https://hc-cdn.hel1.your-objectstorage.com/s/v3/61cc808dc58b6871c826bd40c2f4c4ea05d1cc14_mathias-reding-3p9qzn5uf5q-unsplash__1_.jpg'); /*Background open-source under Unsplash Licence, attribution to Mathais Reding, contact@matreding.com*/
+            background-repeat: repeat; 
+            background-size: auto;
+        }
+
 .wiggle:hover {
             animation: wiggle 0.5s ease-in-out infinite;
         }
@@ -7,12 +13,14 @@
             25% { transform: rotate(-5deg); }
             75% { transform: rotate(5deg); }
         }
-        .navItem:hover {
+
+.navItem:hover {
             animation: bounce 0.5s ease-in-out infinite;
             color: #222; 
-            background: #96a6a1;
-            border-radius: 15px; 
+            background: #085239;
+            border-radius: 3px; 
             box-shadow: 0 4px 10px #085239;
+            border: 5px solid #085239;
         }
 
         @keyframes bounce {
