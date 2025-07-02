@@ -26,17 +26,17 @@
 .mainBodyTextHyperLink{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    color: white;
+    color: #1bffb3;
     padding: 5px;
     text-align: center;
     text-decoration: none;
 }
 
 .mainBodyTextHyperLink:hover {
-    color: #085239;
+    color: white;
     animation: bounce 0.3s ease-in-out infinite;
     background: #085239;
-    border-radius: 3px; 
-    box-shadow: 0 4px 10px #085239;
-    border: 8px solid #085239;
+    border-radius: 1px; 
+    box-shadow: 0 4px 20px #085239;
+    border: 5px solid #085239;
 }

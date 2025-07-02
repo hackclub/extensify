@@ -23,5 +23,30 @@
     font-size: 20px;
     color:  #02d47c;
     padding: 5px;
+    padding-left: 20%;
+    padding-right: 20%;
     text-align: center;
+}
+
+.mainBodyListItem{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:  #02d47c;
+    padding: 5px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+
+.mainBodyListItem a {
+    color: #1bffb3;
+    text-decoration: none;
+}
+.mainBodyListItem a:hover {
+    color: white;
+    animation: bounce 0.3s ease-in-out infinite;
+    background: #085239;
+    border-radius: 3px; 
+    box-shadow: 0 4px 20px #085239;
+    border: 8px solid #085239;
 }
