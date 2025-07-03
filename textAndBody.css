@@ -42,13 +42,23 @@
     text-align: center;
 }
 
+.footerText{
+    font-family: font, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    color:  #02d47c;
+    padding: 5px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+
 .mainBodyListItem{
     font-family: font, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     color:  #02d47c;
     padding: 5px;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
     text-align: center;
     list-style: none;
 }
