@@ -16,6 +16,11 @@
             border-radius: 8px; 
             box-shadow: 0 4px 10px #085239;
             border: 15px solid #085239;
+            box-sizing: border-box;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+           
         }
 
         @keyframes bounce {
