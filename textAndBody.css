@@ -1,8 +1,22 @@
 .navItemText{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: font, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     color: white;
     padding-left: 8px;
+}
+
+@font-face {
+    font-family: 'font';
+    src: url('fonts/font.woff2') format('woff2'),
+         url('fonts/font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.mainBodyText,
+.mainBodyListItem,
+.mainBodyListItem a {
+    font-family: 'font', font, Geneva, Tahoma, sans-serif;
 }
 
 .bodyBackground{
@@ -11,7 +25,7 @@
             background-size: auto;
         }
 .mainBodyHeading{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: font, Geneva, Tahoma, sans-serif;
     font-size: 40px;
     color: #ffffff;
     padding: 8px;
@@ -19,7 +33,7 @@
 }
 
 .mainBodyText{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: font, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     color:  #02d47c;
     padding: 5px;
@@ -29,7 +43,7 @@
 }
 
 .mainBodyListItem{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: font, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     color:  #02d47c;
     padding: 5px;
