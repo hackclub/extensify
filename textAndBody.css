@@ -113,6 +113,12 @@
         display: flex;
     }
     
+    .mainBodyText,
+    .mainBodyTextHyperLink,
+    .mainBodyListItem{
+    line-height: 2;
+    }
+
     nav {
         position: relative;
     }
