@@ -67,6 +67,16 @@
     border: 8px solid #085239;
 }
 
+.mainBodyListDescription{
+    font-family: font, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:  #02d47c;
+    padding: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+
 .hamburger {
     display: none;
     flex-direction: column;
@@ -98,7 +108,7 @@
     transform: translateY(-8px) rotate(-45deg);
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1310px) {
     .hamburger {
         display: flex;
     }
