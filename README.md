@@ -1,64 +1,45 @@
 # Extensify 🚀
 
-**Extensify is HERE!** Get ready to build amazing extensions in this exciting new YSWS (You Ship, We Ship) project! 
-
-## What is Extensify?
-
-Extensify is a Hack Club initiative designed to inspire developers to create amazing IDE extensions. Whether you're targeting VS Code, JetBrains IDEs, or any other development environment, we can't wait to see what awesome creations you'll build!
-
-## Why Extensions Matter
-
-At Hack Club, we absolutely love personal IDE extensions! Here's why:
-
-- **Productivity Boost**: Extensions can streamline your development workflow
-- **Personal Touch**: Make your IDE truly yours with custom functionality
-- **Relaxation & Focus**: Extensions can create a more enjoyable coding environment
-- **Creative Expression**: Build silly little gimmicks that bring joy to your screen
-
-## Project Inspiration
-
-Extensions aren't just about hardcore productivity - some of the best ones are delightful little additions that make coding more fun! A perfect example is the **VS Code Pets** extension - a virtual pet that lives in your editor and keeps you company while you code. 🐱
-
-These small, charming extensions often become developers' favorites because they add personality and warmth to the coding experience.
-
-## Getting Started
-
-1. **Choose Your Platform**: Decide whether you want to build for VS Code, JetBrains, or another IDE
-2. **Brainstorm Ideas**: Think about what would make your development experience better or more enjoyable
-3. **Start Building**: Create something that reflects your personality and coding style
-4. **Have Fun**: Remember, the best extensions often come from playful experimentation!
+**Extensify is HERE!** Get ready to build amazing IDE extensions in this exciting new YSWS (You Ship, We Ship) project!
 
 ## Submission
 
 Ready to share your creation with the world? Submit your projects at:
 **[extensify.hackclub.com](https://extensify.hackclub.com)**
 
-## Project Structure
+## Why IDE Extensions Matter to Us
 
-This repository contains the Extensify project website with:
-- Modern, responsive design
-- Animated navigation elements
-- Textured backgrounds for visual appeal
-- Clean, accessible user interface
+At Hack Club, we all have our own personal set of IDE extensions! Some of us have them for additional custom functionality, others use them to create a more enjoyable coding environment. This versatility helps us everyday, whether we're a few hours deep into development, or we're taking a quick break to refine our focus, we can always turn to our extensions for help!
 
-## Technologies Used
+## Mixing Productivity with Creativity
 
-- HTML5
-- CSS3 (with custom animations)
-- Custom web fonts
-- SVG graphics
+Extensions aren't just about hardcore productivity - some of the best ones are delightful little additions that make coding more fun! A perfect example is the **VS Code Pets** extension - a virtual pet that lives in your editor and keeps you company while you code. 🐱
 
-## Getting Involved
 
-Whether you're a seasoned developer or just starting out, Extensify welcomes creators of all skill levels. The goal is to:
+
+## Getting Started With Extensify
+
+Whether you're a seasoned developer or just starting out, Extensify is for creators of all skill levels. We want you to:
 
 - ✨ Try something new
 - 🎨 Make your IDE yours
 - 🚀 Ship amazing projects
-- 🎉 Have fun while coding
+- 🎉 Have fun
 
----
+1. **Choose Your Platform**: Decide whether you want to build for VS Code, JetBrains, or another IDE
+2. **Brainstorm Ideas**: Think about what would make your development experience better or more enjoyable
+3. **Start Building**: Create something that reflects your personality and coding style
+4. **Have Fun**: Remember, the best extensions often come from playful experimentation!
+5. **Submit** your project to **[extensify.hackclub.com](https://extensify.hackclub.com)**
 
-*Built with ❤️ by the Hack Club community*
+## Technical Information
 
-**Let's make our IDEs as unique as we are!** 🌟
+- HTML5 - Static Site - Single Page
+- CSS - For Animations and Styling
+- Custom fonts - For the style points
+
+-----
+
+*Built with ❤️ by the Hack Club community* - While using this [Markdown Preview Extension!](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+**Let's make our IDEs as unique as we are!**
