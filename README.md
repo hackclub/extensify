@@ -1,6 +1,6 @@
 # Extensify 🚀
 
-**Extensify is HERE!** Get ready to build amazing IDE extensions in this exciting new YSWS (You Ship, We Ship) project!
+**Extensify is OVER!** This YSWS (You Ship, We Ship) project has finally come to a close. The Below is kept for archiving.
 
 ## Submission
 
